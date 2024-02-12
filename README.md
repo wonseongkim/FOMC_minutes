@@ -4,7 +4,6 @@ The dataset, named 'fomc_minutes-label.csv', comprises 1,350 sentences each labe
 
 Related researches:
 
-1) Gössi, Sandro, et al. (2023). "FinBERT-FOMC: Fine-Tuned FinBERT Model with Sentiment Focus Method for Enhancing Sentiment Analysis of FOMC Minutes." Proceedings of the Fourth ACM International Conference on AI in Finance.
-https://huggingface.co/ZiweiChen/FinBERT-FOMC
+1) Gössi, Sandro, et al. (2023). "FinBERT-FOMC: Fine-Tuned FinBERT Model with Sentiment Focus Method for Enhancing Sentiment Analysis of FOMC Minutes." Proceedings of the Fourth ACM International Conference on AI in Finance. Paper: https://dl.acm.org/doi/abs/10.1145/3604237.3626843, Code: https://huggingface.co/ZiweiChen/FinBERT-FOMC
 
-3) Kim, Wonseong, Jan Frederic Spörer, and Siegfried Handschuh. (2023). "Analyzing FOMC Minutes: Accuracy and Constraints of Language Models." arXiv preprint arXiv:2304.10164.
+3) Kim, Wonseong, Jan Frederic Spörer, and Siegfried Handschuh. (2023). "Analyzing FOMC Minutes: Accuracy and Constraints of Language Models." arXiv preprint arXiv:2304.10164. Paper: https://arxiv.org/abs/2304.10164 (in journal revision)

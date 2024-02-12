@@ -11,4 +11,4 @@ The dataset, named 'fomc_minutes-label.csv', comprises 1,350 sentences each labe
 
 Version 1. First dataset used in research: https://arxiv.org/abs/2304.10164
  / Version 2. used in research: https://dl.acm.org/doi/abs/10.1145/3604237.3626843
- / Version 3. is updated here: the recent paper is in review.
+ / **Version 3. is updated here: the recent paper is in review.**

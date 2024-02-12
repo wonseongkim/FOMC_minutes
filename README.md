@@ -9,4 +9,6 @@ The research was done as a fellow in the “Young Researchers Exchange Programme
 
 The dataset, named 'fomc_minutes-label.csv', comprises 1,350 sentences each labeled under one of three categories: 'growth', 'employment', and 'inflation'. These labels were meticulously assigned by a team of three graduate researchers, all males aged between 20 to 30 years, to facilitate the training of large language models. Our methodology for labeling involved reaching a consensus among the researchers; a sentence was labeled based on a sentiment only if at least two researchers agreed on the classification. In cases where no majority agreement was reached, the sentence was categorized under 'No majority found', which is eliminated in the dataset. This dataset was instrumental in fine-tuning FinBERT and served as a benchmark to assess the model's performance in interpreting complex financial texts.
 
-Related research: Gössi, Sandro, et al. (2023). "FinBERT-FOMC: Fine-Tuned FinBERT Model with Sentiment Focus Method for Enhancing Sentiment Analysis of FOMC Minutes." Proceedings of the Fourth ACM International Conference on AI in Finance. Paper: https://dl.acm.org/doi/abs/10.1145/3604237.3626843, Code: https://huggingface.co/ZiweiChen/FinBERT-FOMC
+Version 1. First dataset used in research: https://arxiv.org/abs/2304.10164
+version 2. used in research: https://dl.acm.org/doi/abs/10.1145/3604237.3626843
+version 3. is updated here: the recent paper is in review.

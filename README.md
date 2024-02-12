@@ -1,7 +1,7 @@
 # FOMC_minutes Dataset
 
 ## ***Please reference the article***
-Kim, Wonseong, Jan Frederic Spörer, and Siegfried Handschuh. (2023). "Analyzing FOMC Minutes: Accuracy and Constraints of Language Models." arXiv preprint arXiv:2304.10164. Paper: https://arxiv.org/abs/2304.10164 (in journal revision)
+Kim, Wonseong, Jan Frederic Spörer, and Siegfried Handschuh. (2023). "Analyzing FOMC Minutes: Accuracy and Constraints of Language Models." arXiv preprint arXiv:2304.10164. Paper: https://arxiv.org/abs/2304.10164 (in journal review)
 
 ## Description
 

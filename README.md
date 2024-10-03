@@ -1,6 +1,9 @@
 # FOMC_minutes Dataset
 
 ## ***Please reference the article***
+
+Gössi, S., Chen, Z., Kim, W., Bermeitinger, B., & Handschuh, S. (2023, November). FinBERT-FOMC: Fine-tuned FinBERT Model with sentiment focus method for enhancing sentiment analysis of FOMC minutes. In Proceedings of the Fourth ACM International Conference on AI in Finance (pp. 357-364). Paper: https://dl.acm.org/doi/abs/10.1145/3604237.3626843
+
 Kim, Wonseong, Jan Frederic Spörer, and Siegfried Handschuh. (2023). "Analyzing FOMC Minutes: Accuracy and Constraints of Language Models." arXiv preprint arXiv:2304.10164. Paper: https://arxiv.org/abs/2304.10164 (in journal review)
 
 ## Description
